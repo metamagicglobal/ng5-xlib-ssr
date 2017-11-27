@@ -3,6 +3,8 @@
 </p>
 
 # Angular Universal Starter [![Universal Angular](https://img.shields.io/badge/universal-angular2-brightgreen.svg?style=flat)](https://github.com/angular/universal)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/metamagicglobal/ng5-xlib-ssr.svg)](https://greenkeeper.io/)
 > Server-Side Rendering for Angular
 
 A minimal Angular starter for Universal JavaScript using TypeScript and Webpack
